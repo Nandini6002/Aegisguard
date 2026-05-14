@@ -1,0 +1,21 @@
+user_id,timestamp,department,role,login_count,file_access,avg_file_access_30d,usb_usage,emails_sent,email_subject
+USR001,2023-10-27 09:15,HR,Manager,5,12,10,0,15,Quarterly Review
+USR002,2023-10-27 10:30,Engineering,Dev,4,8,7,0,10,Bug fix update
+USR003,2023-10-27 11:45,Sales,Associate,6,15,12,1,20,Client follow-up
+USR004,2023-10-27 23:45,Finance,Analyst,22,145,30,12,85,URGENT: password export list
+USR005,2023-10-27 13:00,IT,Admin,8,25,20,0,10,Server Patch
+USR006,2023-10-27 14:15,Marketing,Lead,5,11,10,0,12,Social Media Campaign
+USR007,2023-10-28 02:10,Sales,Associate,15,90,15,25,5,Client database backup
+USR008,2023-10-27 15:30,Engineering,Dev,3,7,8,0,9,Code review
+USR009,2023-10-27 16:00,HR,Recruiter,4,10,10,0,12,Interview Schedule
+USR010,2023-10-27 16:45,Finance,Manager,5,14,13,0,18,Budget Planning
+USR011,2023-10-27 17:30,IT,Support,6,18,15,1,14,Ticket updates
+USR012,2023-10-27 14:00,IT,Admin,40,400,350,5,200,System maintenance
+USR013,2023-10-27 08:30,Marketing,Associate,3,5,6,0,7,Email template
+USR014,2023-10-27 12:00,Engineering,Manager,5,12,11,0,16,Sprint Planning
+USR015,2023-10-27 11:00,Marketing,Lead,6,16,15,1,22,Campaign assets
+USR016,2023-10-27 19:30,Engineering,Dev,3,45,10,0,5,Internal secret API keys
+USR017,2023-10-27 10:00,Sales,Manager,4,9,10,0,11,Sales Forecast
+USR018,2023-10-27 10:45,Finance,Analyst,3,7,8,0,9,Tax preparation
+USR019,2023-10-27 15:00,HR,Manager,5,13,12,0,16,Policy Update
+USR020,2023-10-27 09:00,HR,Recruiter,4,10,10,0,12,Salary and SSN list
